@@ -1,0 +1,12 @@
+pip install pygame
+pip install ffpyplayer
+pip install pymediainfo
+
+
+안된다면?
+Windows PowerShell(관리자) 들어가서
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+winget install ffmpeg
+설치한다.
+
+응 아니야!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
